@@ -1,0 +1,38 @@
+body{
+  background-color: black;
+}
+*{border:1px solid red;}
+
+p{
+  padding:50px;
+  text-align: center;
+  font-size: 20px;
+  color:green;
+}
+
+div{
+  padding:50px;
+}
+button{
+  /*display:inline-block;*/
+
+  border-color: red;
+  border-radius: 100%;
+
+  width:12.5vw;
+  height:12.5vw;
+
+  font-size:24px;
+  font-weight: 600;
+
+  color: green;
+
+}
+#bt_CSS{
+
+  margin-left:36%;
+}
+#bt_JS{
+
+  margin-right: 36%;
+}
